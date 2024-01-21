@@ -4,4 +4,4 @@ management:
       exposure:
         include: refresh
 config:
-  msg: write default to all services
+  msg: Global message
